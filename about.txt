@@ -1,0 +1,16 @@
+TRAYTODO v1.0
+Minimalistic tray-based to-do list and archive
+         
+- Stays in the system tray; left-click toggles the main window.
+- If no task file is found, it will be created next to the .exe.
+- The main window shows your task list. Add a task by clicking + at the bottom.
+- Check the box next to a task to mark it as completed.
+- Right-click a task to edit or delete it. You can also edit by double-clicking.
+- At the end of the day, all completed tasks are moved to the archive.
+- Right-click the tray icon to open the menu. Select Show archive to view it.
+- The archive contains all completed tasks with their creation dates.
+- Right-click inside the archive to open a menu with the Group by period option.
+- Use it to switch between a plain list or grouping by last week / last month / older.
+   
+Author: the_mew_noon
+© 2025
